@@ -17,9 +17,13 @@ This project collects, cleans, stores, analyses, and visualises 2025 F1 race dat
 ## 📁 Project Structure
 F1_Analytics/
 ├── data/ # Raw and cleaned CSV files (5 races)
+
 ├── notebooks/ # Jupyter notebooks (collection, cleaning, database, analysis)
+
 ├── sql/ # SQLite database
+
 ├── reports/ # Analysis charts (PNG) and Power BI dashboard (PDF)
+
 └── dashboard/ # Power BI .pbix file
 
 ## 📊 Analysis Questions Answered
